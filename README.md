@@ -129,8 +129,9 @@ Coleção de projetos de firmware que mostram os fundamentos de sistemas embarca
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=joaoVictor-Soares&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoVictor-Soares&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
+<a href="https://github.com/joaoVictor-Soares?tab=repositories"><img src="https://img.shields.io/badge/Ver%20todos%20os%20reposit%C3%B3rios-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos os repositórios" /></a>
+<img src="https://img.shields.io/github/followers/joaoVictor-Soares?style=for-the-badge&logo=github&label=Seguidores&color=2c5364" alt="Seguidores no GitHub" />
+<img src="https://img.shields.io/github/last-commit/joaoVictor-Soares/proj-clinica-springmed?style=for-the-badge&label=%C3%9Altimo%20commit&color=4c9a2a" alt="Data do último commit" />
 
 </div>
 
